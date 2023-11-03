@@ -1,0 +1,46 @@
+body{
+    color: blue;
+    background-color: #CFC;
+    font-family: Georgia, Cambria, serif;
+    font-size: 16px;
+}
+
+h1{
+    color: #F00;
+    font-family: Verdana, Calibri, sans-serif;
+    font-size: 24px;
+}
+
+h2{
+    color: #A00;
+    font-family: Verdana, Calibri, sans-serif;
+    font-size: 24px;
+}
+
+.datos-libros {
+
+    color: green;
+
+}
+
+.sustantivo{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.defin{
+    color: #FFF;
+    background-color: #000;
+    font-style: italic;
+
+}
+
+#datos{
+    color: black;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	border: none;
+	outline: none;
+}
