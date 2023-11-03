@@ -1,0 +1,1 @@
+Basicamente es una cosa que no sé si es un fallo de javascript o si fallo yo en entenderlo pero lo dejo publicado por si acaso no es fallo mío, para comprobarlo tenéis que mirar cada index y comprenderlo mirando el main.js comparándolo con el main2.js

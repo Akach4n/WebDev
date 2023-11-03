@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body>
+    <h2>En este caso al usar el mísmo id "datos" innerText se come a innerHtml pero no del todo porque vemos que desaparece los tags de h1 pero sale el Hola con formato normal, en cambio si lo ponemos al revés esto no pasará como se aprecia más abajo </h2>
+    <hr>
+    <div id="datos"></div>
+    <script src="main2.js" type="text/javascript"></script>
+    <hr>
+    <p>Como hemos podido comprobar si con el mismo id intentas poner un innerHtml por encima de un innerText se va a liar, la solución es añadir otro id, ej: de datos datos2</p>
+</body>
+</html>
