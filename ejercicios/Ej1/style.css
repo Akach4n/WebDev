@@ -1,0 +1,29 @@
+body{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    background: url(purple_marble.png) fixed;
+}
+
+.negrita{
+    font-weight:bold ;
+}
+
+ul li{
+    border: 2px solid blue;
+    background: yellow;
+}
+
+button{
+    background: black;
+    color: white;
+    width: 60px;
+    padding: 2px;
+    border: 1px black solid;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    gap: 10px;
+}
